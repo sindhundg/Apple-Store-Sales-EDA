@@ -1,0 +1,31 @@
+productid,productname,category,price,launched_price,cogs
+1,iPhone 13 Pro Max,Smartphone,1099,1199,549.5
+2,iPhone 13 Pro,Smartphone,999,1099,369.63
+3,iPhone 13,Smartphone,799,899,335.58
+4,iPhone SE (2nd generation),Smartphone,399,449,215.46
+5,iPhone 12 Pro Max,Smartphone,1099,1199,450.59
+6,iPhone 12 Pro,Smartphone,999,1099,529.47
+7,iPhone 12,Smartphone,799,899,303.62
+8,iPhone 11 Pro Max,Smartphone,1099,1199,472.57
+9,iPhone 11 Pro,Smartphone,999,1099,549.45
+10,iPhone 11,Smartphone,699,799,272.61
+11,iPad Pro (12.9-inch),Tablet,999,1099,159.84
+12,iPad Pro (11-inch),Tablet,799,899,199.75
+13,iPad Air,Tablet,599,699,125.79
+14,iPad,Tablet,329,399,78.96
+15,iPad mini,Tablet,399,499,67.83
+16,MacBook Pro 16-inch,Laptop,2399,2499,551.77
+17,MacBook Pro 13-inch,Laptop,1299,1399,207.84
+18,MacBook Air,Laptop,999,1099,169.83
+19,iMac,Desktop,1299,1399,285.78
+20,Mac Pro,Desktop,5999,6499,899.85
+21,Mac Mini,Desktop,699,799,125.82
+22,Apple Watch Series 7,Wearable,399,429,251.37
+23,Apple Watch SE,Wearable,279,299,159.03
+24,AirPods Pro,Headphones,249,279,141.93
+25,AirPods,Headphones,159,179,103.35
+26,AirPods Max,Headphones,549,599,307.44
+27,HomePod mini,Smart Speaker,99,129,55.44
+28,HomePod,Smart Speaker,299,349,188.37
+29,Apple TV 4K,Streaming Device,179,199,112.77
+30,Apple TV HD,Streaming Device,149,169,92.38
